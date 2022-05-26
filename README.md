@@ -9,10 +9,10 @@
 </div>
           
 ## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
-<div>
+<div text-align="left">
   <a href="https://github.com/GiovanniPretti">
-  <img height="47%" src="https://github-readme-stats.vercel.app/api?username=GiovanniPretti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-  <img height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPretti&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GiovanniPretti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPretti&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
