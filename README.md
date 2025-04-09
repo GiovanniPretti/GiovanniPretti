@@ -17,4 +17,3 @@
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
 <img src="https://komarev.com/ghpvc/?username=GiovanniPretti&color=blue" alt="Profile views"><br>
-![Snake animation](https://github.com/GiovanniPretti/GiovanniPretti/blob/output/github-contribution-grid-snake.svg)
