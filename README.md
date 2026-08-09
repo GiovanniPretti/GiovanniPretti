@@ -1,18 +1,16 @@
-# Hi, Welcome!
+# Hello, Welcome!
 <div>
-  <img align="center" height="40" width="40" title="Python"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" title="PHP"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="40" width="40" title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" title="MySQL"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="40" title="AutoHotkey" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png">
+  <img title="Python" alt="Python" align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg">
+  <img title="MySQL"  alt="MySQL"  align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg">
+  <img title="PHP"    alt="PHP"    align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg">
 </div>
 
-## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
-<div text-align="left">
-  <!--<a href="https://github.com/GiovanniPretti"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=GiovanniPretti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>-->
-  <a href="https://github.com/GiovanniPretti"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPretti&layout=compact&langs_count=7&theme=github_dark"></a>
-</div>
+## <img alt="Snake-GIF" height="30" src="./assets/snake.gif"> Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/GiovanniPretti/GiovanniPretti/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniPretti/GiovanniPretti/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GiovanniPretti/GiovanniPretti/output/github-snake.svg">
+</picture>
 
-## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
+## <img alt="Gear-GIF" height="30" src="./assets/gear.gif"> More
 <img src="https://komarev.com/ghpvc/?username=GiovanniPretti&color=blue" alt="Profile views"><br>
